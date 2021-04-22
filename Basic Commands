@@ -1,0 +1,5 @@
+After configuring the suitbale files, the installation of Apache Hive is successfull. Now change your present working directory to the Apache Hive directory and run the given below command:
+            >cd apache-hive-version/bin
+Now your current  pwd is "/home/vineel/apache-hive-version". Now run the following command:
+            >hive
+Running the above command leads to starting of the hive terminal/ Command Line Interface (CLI) where you can do all your works like creating, managing databases and tables. 
